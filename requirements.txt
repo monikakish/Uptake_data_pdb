@@ -4,4 +4,5 @@ numpy
 biopython
 matplotlib
 plotly
-pymol
+-c conda-forge -c schrodinger pymol-bundle
+
