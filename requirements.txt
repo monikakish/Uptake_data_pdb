@@ -1,8 +1,2 @@
 streamlit
-pandas
-numpy
-biopython
-matplotlib
-plotly
--c schrodinger pymol-bundle
-
+pymol-open-source
